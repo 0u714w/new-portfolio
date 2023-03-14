@@ -2,31 +2,28 @@
     
     <b-container>
      <b-card class="mt-5 rounded shadow-lg">
-          <span class="text-dark font-weight-bold">Personal Profile</span> <br>
+          <span class="text-dark font-weight-bold">Hi. I'm Doug 🙂</span> <br>
           <hr>
-          <p class="font-italic">
-            I am a person who believes in the power of teamwork, in growing and learning more every day, competitive and who does not give up on him ambitions.
-            </p>
+          <div>
+    <img src="../assets/projects/doug.jpg" alt="doug" style="max-width: 100%; height: auto;">
+  </div>
           
      </b-card>
       <b-card class="mt-1 rounded shadow-sm">
           <span class="text-dark font-weight-bold">Personal</span> <br>
           <hr>
          <b-badge variant="dark">
-             Kevin Bohorquez rojas
+             Douglass Enas
          </b-badge>
          <br>
          <b-badge>
-            https://github.com/scyth3-c             
+            https://github.com/0u714w            
          </b-badge>
          <br>
          <b-badge variant="dark">
-             Colombia. Bogota, D.C
+             Indianapolis, Indiana
          </b-badge>
          <br>   
-         <b-badge>
-             studying
-         </b-badge>
      </b-card>
  </b-container>
   

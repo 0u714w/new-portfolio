@@ -2,13 +2,13 @@
   <b-navbar toggleable="lg" class="navbar-horizontal shadow-lg">
     <b-navbar-brand>
       <b-icon icon="person-badge-fill" variant="dark"></b-icon>
-      <span title="name" class="font-weight-bold mt-auto ml-3"> Kevin Bohorquez Rojas</span>
+      <span title="name" class="font-weight-bold mt-auto ml-3"> Douglass Enas</span>
     </b-navbar-brand>
 
     <b-navbar-nav>
       <b-nav-item href="#" class="mt-auto ml-auto">
         <b-badge variant="white">
-          <span title="ocupation" class="text-secondary">Backend Engineer </span>
+          <span title="ocupation" class="text-secondary">Web Developer </span>
           <b-icon variant="secondary" icon="code-slash"></b-icon></b-badge
       ></b-nav-item>
       <b-nav-item
@@ -16,7 +16,7 @@
         class="mt-auto ml-auto"
       >
         <b-badge variant="white">
-          <span title="location" class="text-secondary">Colombia. Bogotá, D.C </span>
+          <span title="location" class="text-secondary">Indianapolis, Indiana </span>
           <b-icon
             variant="secondary"
             scale="0.9"
@@ -35,9 +35,6 @@
       <b-nav-item :href="linkedin"
         ><b-icon icon="linkedin" variant="dark"></b-icon
       ></b-nav-item>
-      <b-nav-item :href="youtube"
-        ><b-icon icon="youtube" variant="dark"></b-icon
-      ></b-nav-item>
     </b-navbar-nav>
   </b-navbar>
 </template>
@@ -47,10 +44,9 @@ export default {
   name: "barraVue",
    data() {
           return {
-                 github: 'https://github.com/scyth3-c',
-                 mail: 'mailto:bohordo.png@gmail.com',
-                 linkedin: 'https://www.linkedin.com/in/kevin-bohorquez-rojas-bohordo/',
-                 youtube: 'https://www.youtube.com/channel/UCAWCJbCl07jXmPz1vHcTqWw'
+                 github: 'https://github.com/0u714w',
+                 mail: 'mailto:douglassenas@gmail.com',
+                 linkedin: 'https://www.linkedin.com/in/doug-enas-a863b8191/',
           }
       }
 };

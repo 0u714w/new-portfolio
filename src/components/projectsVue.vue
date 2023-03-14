@@ -31,21 +31,10 @@ export default {
     data() {
         return {
             slides: [
-                {caption: "C++ Web Server", src: require("../assets/projects/webserver.png"), link: "https://github.com/scyth3-c/Magnetar-core"},
-                {caption: "C++ Online Compiler", src: require("../assets/projects/compiler.png"), link: "https://github.com/scyth3-c/knock-cpp-online"},
-                {caption: "C++ Terminal Chat Room", src: require("../assets/projects/chatroom.png"), link: "https://github.com/scyth3-c/rwnio-chatroom"},
-                {caption: "C++ compile node api", src: require("../assets/projects/cpp-api.png"), link: "https://github.com/scyth3-c/knock-cpp-API"},
-                {caption: "C++ anchor pincel", src: require("../assets/projects/gl-pincel.png"), link: "https://github.com/scyth3-c/gl-pincel"},
-                {caption: "Public Notes App", src: require("../assets/projects/knocknotes.jpg"), link: "https://github.com/scyth3-c/Vue-Electron-Port"},
-                {caption: "Public Desktop Notes App", src: require("../assets/projects/notesdesktop.jpg"), link: "https://github.com/scyth3-c/knock-notes-desktop"},
-                {caption: "SHA256 Control", src: require("../assets/projects/sha256.jpg"), link: "https://github.com/scyth3-c/vue-knock-sha256"},
-                {caption: "Discord Global Economy Bot", src: require("../assets/projects/discord.gif"), link: "https://github.com/scyth3-c/public-ccMegalo-bot-ramake"},
-                {caption: "TypeScript API (demo without docker and cpp  addons)", src: require("../assets/projects/api.jpeg"), link: "https://github.com/scyth3-c/API-TS-NODEJS"},
-                {caption: "Real Time Chat", src: require("../assets/projects/chat.png"), link: "https://github.com/scyth3-c/Node.js-sockets-chat"},
-                {caption: "Pincel C++ OpenGL Legacy", src: require("../assets/projects/draw.jpg"), link: "https://github.com/scyth3-c/opengl-draw-all-modes"},
-                {caption: "Text Font C++ OpenGL Legacy", src: require("../assets/projects/font.png"), link: "https://github.com/scyth3-c/opengl-comic-text-font"},
-                {caption: "All Done for C++ GLFW", src: require("../assets/projects/lib.png"), link: "https://github.com/scyth3-c/glfw-glad-cmake-linux"},
-                {caption: "Template for C++ Modern  OpenGL", src: require("../assets/projects/glfw.png"), link: "https://github.com/scyth3-c/modern-opengl-easy-template"},
+                {caption: "Ebay Scraper", src: require("../assets/projects/ebay.png"), link: "https://github.com/0u714w/ebay_scraper"},
+                {caption: "Simple Neural Net", src: require("../assets/projects/net.png"), link: "https://github.com/0u714w/neural_net"},
+                {caption: "Bird Nerd", src: require("../assets/projects/birdnerd.png"), link: "https://mhoelzer.github.io/birdNerd/"},
+                
             ],  
             open_slide: 0
         }

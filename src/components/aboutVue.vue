@@ -1,34 +1,38 @@
 <template>
-    
-      <b-container class="mt-4">
-    
-          <span title="about me" class="text-dark font-weight-bold">About Me</span> <br>
-          <hr>
+  <b-container class="mt-4">
+    <span title="about me" class="text-dark font-weight-bold">About Me</span>
+    <br />
+    <hr />
 
-            <b-card class="my-2 shadow-lg">
-                <span title="kevin" class="text-secondary">Kevin~</span>
-                <hr>
-                My name is Kevin, I'm 19 years old and I live in Colombia, since I'm in high school I have ventured into the world of electronics and programming.
-            </b-card>
+    <b-card class="my-2 shadow-lg">
+      <span title="kevin" class="text-secondary">Douglass</span>
+      <hr />
+      <p>
+        Hi. I'm Doug 🙂 I've spent most of my life writing music for a living,
+        now I write code.
+      </p>
+      <br />
 
-            <b-card class="my-2 shadow-lg">
-                <span class="text-secondary">Kevin Bohorquez</span>
-                <hr>
-                I have experience working with micro controllers, programmable and embedded boards example of these are Pic, Arduino, Raspberry Pi etc..
-            </b-card>
-
-            <b-card class="shadpow-lg">
-                <span class="text-secondary">scyth3-c</span>
-                <hr>
-                 I started in the world of programming with C++ on my own, since then I discovered how much I like this world, from there I was trying new technologies, new languages, I continued with javascript, Python, Php etc.. today I want to work as a web developer and continue learning and testing new technologies.
-            </b-card>
-        
-    </b-container>
-
+      <p>
+        How I bring value:
+        <br /> 1. I humanize coding <br /> 2. I’m an avid problem solver <br /> 3.
+        Team work! I collaborate with those around me to drive better and faster
+        results.
+      </p>
+      <br />
+      <p>
+        I have four years of experience writing and maintaining backend and full
+        stack applications built in php, javascript, and python. I thrive on
+        great teamwork and innovative thinking. I am a problem solver both at
+        home and in the workplace, and I strive to make other's lives better
+        with the gifts I've been given.
+      </p>
+    </b-card>
+  </b-container>
 </template>
 
 <script>
 export default {
-    name: 'aboutVue'
-}
+  name: "aboutVue",
+};
 </script>
