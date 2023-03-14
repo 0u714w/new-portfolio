@@ -2,11 +2,12 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
+  
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap-vue": "^2.22.0",
