@@ -12,7 +12,7 @@
           <b-icon variant="secondary" icon="code-slash"></b-icon></b-badge
       ></b-nav-item>
       <b-nav-item
-        href="https://goo.gl/maps/Qvpojnycmj3teTx76"
+        href="https://www.google.com/maps/place/Indianapolis,+IN/@39.7799637,-86.2731791,11z/data=!3m1!4b1!4m6!3m5!1s0x886b50ffa7796a03:0xd68e9df640b9ea7c!8m2!3d39.768403!4d-86.158068!16zL20vMGZ0eHc"
         class="mt-auto ml-auto"
       >
         <b-badge variant="white">

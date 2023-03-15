@@ -21,7 +21,4 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< HEAD
-=======
-.firebase/hosting.ZGlzdA.cache
->>>>>>> c958489632f4809f289ccf34a4458d303b7d6ee4
+new-portfolio.code-workspace
