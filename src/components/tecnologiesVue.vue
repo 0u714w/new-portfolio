@@ -61,7 +61,6 @@ export default {
   transition: 500ms;
 }
 ._icons:hover {
-  font-size: 60px;
   transition: 500ms;
 }
 </style>

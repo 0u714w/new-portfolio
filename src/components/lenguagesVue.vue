@@ -7,7 +7,7 @@
       <hr />
       <br />
       <div v-for="bar in bars" :key="bar.value" class="row mb-2">
-        <div class="col-md-7">
+        <div class="col-12">
           <b-badge class="text-white col-ms-1" variant="dark">{{
             bar.title
           }}</b-badge>
