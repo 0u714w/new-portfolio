@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <b-card variant="dark" class="shadow-lg rounded mt-5">
-      <span class="text-dark font-weight-bold">Languages </span>
+      <span class="text-dark font-weight-bold">languages </span>
       <br />
       <span class="text-secondary"> (always looking to learn more) </span>
       <hr />
