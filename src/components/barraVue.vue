@@ -2,7 +2,7 @@
   <b-navbar toggleable="lg" class="navbar-horizontal shadow-lg">
     <b-navbar-brand>
       <b-icon icon="person-badge-fill" variant="dark"></b-icon>
-      <span title="name" class="font-weight-bold mt-auto ml-3"> Douglass Enas</span>
+      <span title="name" class="font-weight-bold mt-auto ml-3"> Doug Enas</span>
     </b-navbar-brand>
 
     <b-navbar-nav>

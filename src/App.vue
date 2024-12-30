@@ -2,33 +2,19 @@
   <div id="app">
     <barra-vue/>
 
-    <div class="m-4">
-       <div class="row">
-      
-       <div class="col-md-3">
-        <ProfileVue/>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <ProfileVue />
         </div>
-       <div class="col-md-4">
-        <LenguagesVue/> 
+        <div class="col-md-4">
+          <LenguagesVue />
         </div>
-       <div class="col-md-4">
-        <TecnologiesVue/> 
+        <div class="col-md-4">
+          <TecnologiesVue />
         </div>
-
-       </div>
-     
-     <projects-vue/>
-     
-
-       <div class="col-md-8 float-center mx-auto">
-        <about-vue/>
-       </div>
-   
-    
-
+      </div>
     </div>
-
-  <FooterVue/>
 
   </div>
 </template>
@@ -52,6 +38,10 @@ export default {
     ProjectsVue,
     AboutVue,
     FooterVue
-}
+  }
 }
 </script>
+
+<style scoped>
+/* Add your styles here */
+</style>
