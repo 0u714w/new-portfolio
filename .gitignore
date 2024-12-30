@@ -1,6 +1,15 @@
 .DS_Store
 node_modules
 /dist
+.firebaserc
+firebase.json
+babel.config.js
+deploy.sh
+jsconfig.json
+package-lock.json
+package.json
+vue.config.js
+.firebase
 
 
 # local env files
