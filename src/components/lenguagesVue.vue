@@ -1,9 +1,8 @@
 <template>
   <b-container>
     <b-card variant="dark" class="shadow-lg rounded mt-5">
-      <span class="text-dark font-weight-bold">languages </span>
+      <span class="text-dark font-weight-bold">programming</span>
       <br />
-      <span class="text-secondary"> (always looking to learn more) </span>
       <hr />
       <br />
       <div v-for="bar in bars" :key="bar.value" class="row mb-2">
@@ -29,12 +28,14 @@ export default {
     data() {
         return {
             bars: [
-                {title: "PHP", value: 85, variant: "primary"},
-                {title: "Vue", value: 75, variant: "success"},
-                {title: "JavaScript", value:60, variant: "warning"},
-                {title: "Python", value: 70, variant: "primary"},
-                {title: "Django", value: 55, variant: "danger"},
-                {title: "React", value: 56, variant: "primary"},
+                {title: "php", value: 50, variant: "primary"},
+                {title: "typescript", value: 39, variant: "warning"},
+                {title: "python", value: 66, variant: "primary"},
+                {title: "javascript", value: 70, variant: "warning"},
+                {title: "html", value: 80, variant: "primary"},
+                {title: "css", value: 80, variant: "warning"},
+                {title: "sql", value: 60, variant: "primary"},
+                {title: "bash", value: 40, variant: "warning"},
             ]
         }
     }

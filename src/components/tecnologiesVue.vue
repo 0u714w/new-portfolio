@@ -41,6 +41,7 @@ export default {
         { data: "devicon-sqlite-plain" },
         { data: "devicon-php-plain" },
         { data: "devicon-linux-plain" },
+        { data: "devicon-typescript-plain" },
       ],
     };
   },
