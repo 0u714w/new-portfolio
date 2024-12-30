@@ -2,7 +2,7 @@
     
     <b-container>
      <b-card class="mt-5 rounded shadow-lg">
-          <span class="text-dark font-weight-bold">im an outlaw</span> <br>
+          <span class="text-dark font-weight-bold">outlaw</span> <br>
           <hr>
           <div>
     <img src="../assets/projects/doug.jpeg" alt="doug" style="max-width: 100%; height: auto;">
