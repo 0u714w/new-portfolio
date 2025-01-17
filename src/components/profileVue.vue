@@ -11,7 +11,7 @@
       <span class="text-dark font-weight-bold">Personal</span> <br>
       <hr>
       <b-badge>
-        https://github.com/0u714w            
+        <a href="https://github.com/0u714w" target="_blank" style="color: white;">github</a>
       </b-badge>
       <br>
       <b-badge variant="dark">

@@ -8,7 +8,7 @@
     <b-navbar-nav>
       <b-nav-item href="#" class="mt-auto ml-auto">
         <b-badge variant="white">
-          <span title="ocupation" class="text-secondary">Web Developer </span>
+          <span title="ocupation" class="text-secondary">Software Composer </span>
           <b-icon variant="secondary" icon="code-slash"></b-icon></b-badge
       ></b-nav-item>
       <b-nav-item
