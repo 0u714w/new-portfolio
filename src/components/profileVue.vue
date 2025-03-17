@@ -1,7 +1,7 @@
 <template>
   <b-container>
     <b-card class="mt-5 rounded shadow-lg">
-      <span class="text-dark font-weight-bold">outlaw</span> <br>
+      <span class="text-dark font-weight-bold">doug enas</span> <br>
       <hr>
       <div>
         <img src="../assets/projects/doug.gif" alt="Doug's Project" style="max-width: 100%; height: auto;">
